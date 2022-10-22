@@ -1,0 +1,11 @@
+D:\zzzzz\abc\abc.core\bin\Debug\net6.0\abc.core.deps.json
+D:\zzzzz\abc\abc.core\bin\Debug\net6.0\abc.core.dll
+D:\zzzzz\abc\abc.core\bin\Debug\net6.0\ref\abc.core.dll
+D:\zzzzz\abc\abc.core\bin\Debug\net6.0\abc.core.pdb
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\abc.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\abc.core.AssemblyInfoInputs.cache
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\abc.core.AssemblyInfo.cs
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\abc.core.csproj.CoreCompileInputs.cache
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\abc.core.dll
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\ref\abc.core.dll
+D:\zzzzz\abc\abc.core\obj\Debug\net6.0\abc.core.pdb

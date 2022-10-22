@@ -1,0 +1,16 @@
+D:\zzzzz\abc\abc.Infrastructure\bin\Debug\net6.0\abc.Infrastructure.deps.json
+D:\zzzzz\abc\abc.Infrastructure\bin\Debug\net6.0\abc.Infrastructure.dll
+D:\zzzzz\abc\abc.Infrastructure\bin\Debug\net6.0\ref\abc.Infrastructure.dll
+D:\zzzzz\abc\abc.Infrastructure\bin\Debug\net6.0\abc.Infrastructure.pdb
+D:\zzzzz\abc\abc.Infrastructure\bin\Debug\net6.0\abc.core.dll
+D:\zzzzz\abc\abc.Infrastructure\bin\Debug\net6.0\abc.core.pdb
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.csproj.AssemblyReference.cache
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.AssemblyInfoInputs.cache
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.AssemblyInfo.cs
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\EFCoreNpgsqlNodaTime.cs
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.csproj.CopyComplete
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.dll
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\ref\abc.Infrastructure.dll
+D:\zzzzz\abc\abc.Infrastructure\obj\Debug\net6.0\abc.Infrastructure.pdb
